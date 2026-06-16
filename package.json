@@ -1,5 +1,5 @@
 {
-  "name": "mcp-forge",
+  "name": "mcp-forge-cli",
   "version": "0.1.0",
   "description": "CLI scaffolding tool for MCP (Model Context Protocol) server projects",
   "type": "module",
@@ -40,12 +40,12 @@
     "cli"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/271043/mcp-forge#readme",
+  "homepage": "https://github.com/271043/mcp-forge-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/271043/mcp-forge.git"
+    "url": "https://github.com/271043/mcp-forge-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/271043/mcp-forge/issues"
+    "url": "https://github.com/271043/mcp-forge-cli/issues"
   }
 }
