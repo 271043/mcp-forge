@@ -1,10 +1,10 @@
 {
-  "name": "mcp-create-server",
+  "name": "@sharpbits/create-mcp-server",
   "version": "0.1.0",
   "description": "CLI scaffolding tool for MCP (Model Context Protocol) server projects",
   "type": "module",
   "bin": {
-    "mcp-create-server": "./bin/create-mcp-server.js"
+    "create-mcp-server": "./bin/create-mcp-server.js"
   },
   "files": [
     "bin",

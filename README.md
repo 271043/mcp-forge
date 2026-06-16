@@ -1,19 +1,19 @@
-# mcp-create-server
+# @sharpbits/create-mcp-server
 
 CLI scaffolding tool for [Model Context Protocol](https://modelcontextprotocol.io) servers.
 
 ```bash
-npx mcp-create-server my-server
+npx @sharpbits/create-mcp-server my-server
 ```
 
 ## Usage
 
 ```bash
 # Interactive mode — answers prompts to choose options
-npx mcp-create-server my-server
+npx @sharpbits/create-mcp-server my-server
 
 # Non-interactive — pass all flags to skip prompts
-npx mcp-create-server my-server --template full --transport stdio --lang ts
+npx @sharpbits/create-mcp-server my-server --template full --transport stdio --lang ts
 ```
 
 ## Options
