@@ -1,10 +1,10 @@
 {
-  "name": "@sharpbits/create-mcp-server",
+  "name": "mcp-forge",
   "version": "0.1.0",
   "description": "CLI scaffolding tool for MCP (Model Context Protocol) server projects",
   "type": "module",
   "bin": {
-    "create-mcp-server": "./bin/create-mcp-server.js"
+    "mcp-forge": "./bin/create-mcp-server.js"
   },
   "files": [
     "bin",
@@ -40,12 +40,12 @@
     "cli"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/271043/mcp-create-server#readme",
+  "homepage": "https://github.com/271043/mcp-forge#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/271043/mcp-create-server.git"
+    "url": "https://github.com/271043/mcp-forge.git"
   },
   "bugs": {
-    "url": "https://github.com/271043/mcp-create-server/issues"
+    "url": "https://github.com/271043/mcp-forge/issues"
   }
 }

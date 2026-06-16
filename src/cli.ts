@@ -8,10 +8,10 @@ const VERSION = "0.1.0";
 
 function printHelp(): void {
   console.log(`
-@sharpbits/create-mcp-server v${VERSION}
+mcp-forge v${VERSION}
 
 Usage:
-  npx @sharpbits/create-mcp-server <project-name> [options]
+  npx mcp-forge <project-name> [options]
 
 Options:
   --template <minimal|full>    minimal: echo tool only. full: tool + resource + prompt
@@ -21,8 +21,8 @@ Options:
   --version                    Show version
 
 Examples:
-  npx @sharpbits/create-mcp-server my-server
-  npx @sharpbits/create-mcp-server my-server --template full --transport stdio --lang ts
+  npx mcp-forge my-server
+  npx mcp-forge my-server --template full --transport stdio --lang ts
 `);
 }
 
