@@ -1,19 +1,19 @@
-# mcp-forge
+# mcp-forge-cli
 
 CLI scaffolding tool for [Model Context Protocol](https://modelcontextprotocol.io) servers.
 
 ```bash
-npx mcp-forge my-server
+npx mcp-forge-cli my-server
 ```
 
 ## Usage
 
 ```bash
 # Interactive mode — answers prompts to choose options
-npx mcp-forge my-server
+npx mcp-forge-cli my-server
 
 # Non-interactive — pass all flags to skip prompts
-npx mcp-forge my-server --template full --transport stdio --lang ts
+npx mcp-forge-cli my-server --template full --transport stdio --lang ts
 ```
 
 ## Options
