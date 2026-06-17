@@ -1,10 +1,10 @@
 {
   "name": "mcp-forge-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CLI scaffolding tool for MCP (Model Context Protocol) server projects",
   "type": "module",
   "bin": {
-    "mcp-forge": "./bin/create-mcp-server.js"
+    "mcp-forge-cli": "./bin/create-mcp-server.js"
   },
   "files": [
     "bin",
